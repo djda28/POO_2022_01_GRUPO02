@@ -146,6 +146,10 @@
     <ClCompile Include="Clase06042022.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="ClaseSem04Guia42POO1.cpp" />
+    <ClCompile Include="ClaseVectoresDemo1SinFunciones.cpp" />
+    <ClCompile Include="ClaseVectoresDemo2ConFunciones.cpp" />
+    <ClCompile Include="ClaseVoidEjemploMayor01.cpp" />
     <ClCompile Include="Factorial.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
